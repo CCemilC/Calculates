@@ -1,8 +1,0 @@
-package CoffeeMachineProject;
-
-public enum CoffeeTypes {
-    AMERICANO,ESPRESSO,CAPPUCINO,LATTE,MOCHA,MACCHIATO,AFFOGATO,ICED_COFFEE,FRAPPUCCINO,IRISH;
-}
-
-
-
